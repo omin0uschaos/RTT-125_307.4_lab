@@ -23,12 +23,12 @@ aside {
 #box2 tr > td:first-child {
     text-align: right;
     font-weight: 800;
-    color: white;
+    color: #fdf9f8;
 }
 
 h1 {
 margin-bottom: 0;
-color: white;
+color: #fac000;
 font-size: 40px;
 }
 
@@ -52,7 +52,7 @@ font-size: 40px;
 #section_2 th{
    padding-bottom: 20px;
    padding-top: 20px;
-   color: white;
+   color: #fdf9f8;
    text-transform: uppercase;
 }
 
@@ -81,7 +81,7 @@ font-size: 40px;
     display: flex;
     border-radius: 5px;
     overflow: hidden;
-    color: white;
+    color: #fdf9f8;
 }
 .skillbox div {
     padding: 5px 10px;
@@ -109,10 +109,10 @@ table {
 
 strong > span {
     float: right;
-    color: rgb(171, 171, 171);
+    color: #030010;
 }
 strong {
-    color: white;
+    color: #fdf9f8;
 }
 
 h2{
@@ -124,19 +124,19 @@ h2{
 }
 
 body {
-    background-color: black;
-    color: grey;
+    background-color: #030010;
+    color: #030010;
     margin-top: 50px;
 
 }
 main {
-    background-color: rgb(50, 50, 50);
+    background-color: #959a3f;
     width: 90vw;
     margin: auto;
     padding: 40px;
 }
 #section_3 .section-header {
-    background-color: rgb(82, 82, 82);
+    background-color: #030010;
     color: white;
     height: 60px;
     vertical-align: middle;
@@ -214,7 +214,7 @@ main {
 
 }
 .filled {
-    background-color: white;
+    background-color: #fdf9f8;
 }
 .lang-label {
 height: fit-content;
